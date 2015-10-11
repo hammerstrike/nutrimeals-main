@@ -1,0 +1,40 @@
+{
+    "faqs" : [
+        {
+            "q":"How is Nutrimeal different from school canteen?",
+            "a":"We firmly believe that the nutritional requirement of a primary school children and seconday children is different.At the same time the meal for small children should be appealing and attractive which is not in the case of school canteen"
+        },
+        {
+            "q":"How will I know that your kitchen is hygiene?",
+            "a":"We have professional chefs.they will be following the prescribed standard of hygiene.In addition ,our dietican will give surprise visit to kitchen once or twice a week"
+        },
+        {
+            "q":"Where you will deliver the meal?",
+            "a":"We will deliver the meal (disposable pack) in school at lunch time"
+        },
+        {
+            "q":"Do you have tie up with dabawallas?",
+            "a":"No.we have our own service of delievery"
+        },
+        {
+            "q":"What is your 5 days meal plan?",
+            "a":"There are parents who don’t want regular tiffin for their children but want sometimes when they will be unable to give tiffin.In our 5 days meal plan you can call us 1 day before (till evening) and confirm meal for your child for the next day. You can use it any 5 days (not necessary successive) in next 21 school working days. After 21 days it will get expired even if you have not use it fully"
+        },
+        {
+            "q":"What if my child is allergic to certain recipe?",
+            "a":"We request you to check in advance the ingredients use in the recipe.if your child is allergic to any recipe then let us know.we will not deliver that recipe to your child and 1 day before will let you know about it so you can manage his food on the day when we will deliver that recipe to other children"
+        },
+        {
+            "q":"What if my child is absent to school due to any reason?",
+            "a":"You can inform us on previous day till evening.In any case, if you forget to inform us we will not charge you for first time but if it happens second time in a month then will charge you for that meal even if your child is absent in school"
+        },
+        {
+            "q":"Do you provides this service in all school?",
+            "a":"You need to call us for that.then will let u know if we can provide in your school or not"
+        },
+        {
+            "q":"What is the method of payment?",
+            "a":"You can make payment by cheque within 7 days from the date of bill issue"
+        }
+    ]
+}

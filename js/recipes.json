@@ -1,0 +1,69 @@
+{
+    "recipes" : [
+        {
+            "name":"Rice dhokla",
+            "thumb":"recipe1.jpg",
+            "ingredients":"Rice, buttermilk, oil, sugar, Rai, green chilli, turmeric,salt, red chilli powder, lime,coriander leaves"
+        },
+        {
+            "name":"Handwa",
+            "thumb":"recipe2.jpg",
+            "ingredients":"Handwa flour, onions, cabbage, dudhi grated, carot grated, capsicum, tomato,ground nuts, oil, green chillies, turmeric, til, Rai"
+        },
+        {
+            "name":"Banana Tikki",
+            "thumb":"recipe3.jpg",
+            "ingredients":"banana, capsicum, cabbage, onions, oil, green chilly, ginger, salt, lemon"
+        },
+        {
+            "name":"Mexican Rice",
+            "thumb":"recipe4.jpg",
+            "ingredients":"Rice, 3 color bell paper, spring onion, baked beans, tomato, boiled corns, oil/butter, oregano, chilli flakes, salt"
+        },
+        {
+            "name":"Tangy idli",
+            "thumb":"recipe1.jpg",
+            "ingredients":"Mini idli, tomato, capsicum, onion,boiled, corn, oil, pav bhaji masala, ketchup,salt, coriander"
+        },
+        {
+            "name":"Lazeez pasta",
+            "thumb":"recipe2.jpg",
+            "ingredients":"Butter, maida, milk, pepper, oregano, salt, cheese, pasta, bell pepper, sweet corn, onion"
+        },
+        {
+            "name":"Green parantha",
+            "thumb":"recipe3.jpg",
+            "ingredients":"Green peas, French beans, capsicum, groundnut powder, green chilly, chat masala, paneer, wheat flour, salt, coriander"
+        },
+        {
+            "name":"Rajmah wrap",
+            "thumb":"recipe4.jpg",
+            "ingredients":"Wheat flour, maize flour, rajmah, coriander, cheese, onions, oil"
+        },
+        {
+            "name":"Khubani pudding",
+            "thumb":"recipe1.jpg",
+            "ingredients":"Marie biscuits, condensed milk, cashew powder, coconut powder,sugar"
+        },
+        {
+            "name":"Dhokla sandwich",
+            "thumb":"recipe2.jpg",
+            "ingredients":"Rice, urad dal, buttermilk, coriander leaves, coriander chutney, green chillies, lemon juice, salt, sugar, oil"
+        },
+        {
+            "name":"Soyabean Cutlets",
+            "thumb":"recipe3.jpg",
+            "ingredients":"Soyabean granules, onion, potato, Rava, jeera powder, chilli powder, garam masala, ginger garlic paste, chat masala, salt, oil"
+        },
+        {
+            "name":"Nachani chocolate",
+            "thumb":"recipe4.jpg",
+            "ingredients":"Nachni, date, milk, vanilla essence, choco powder, sugar, oil"
+        },
+        {
+            "name":"Oats choco balls",
+            "thumb":"recipe1.jpg",
+            "ingredients":"Oats,dry fruits, coco powder, condensed milk"
+        }
+    ]
+}
