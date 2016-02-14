@@ -1,8 +1,8 @@
 {
 "keys":[
-    { "title": "restaurant", id: 1 },
-    { "title": "atm", id: 2 },
-    { "title": "bank", id: 3 },
-    { "title": "hospital", id: 4 }
+    { "title": "restaurant", "id": 1 },
+    { "title": "atm", "id": 2 },
+    { "title": "bank", "id": 3 },
+    { "title": "hospital", "id": 4 }
   ]
   }
